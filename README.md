@@ -1,4 +1,4 @@
-# Team A15 — Design Pattern Case Study
+# Team A14 — Design Pattern Case Study
 
 ## Application
 Design Pattern Analysis in a Flask-Based Event Management Application.
